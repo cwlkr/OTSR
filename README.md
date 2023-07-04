@@ -1,5 +1,9 @@
-# Pipeline for calculating MI-TSR and WT-TSR and ContextNet model training and inference
+# Prognostic significance and computer aided quantitative analysis of tumor-stroma ratio in high-grade serous ovarian cancer using routine H&E digital pathology slides**
 
+Lilian van Wagensveld, Cedric Walker, Kerstin Hahn, Joyce Sanders, Roy FPM Kruitwagen, Maaike A van der Aa, Gabe S Sonke, Sven Rottenberg, Koen K Van de Vijver, Andrew R. Janowczyk, Hugo M Horlings
+
+Pipeline for calculating MI-TSR and WT-TSR and ContextNet model training and inference.
+A persistent version of this code can be accessed after publication through [Zenodo](https://doi.org/10.5281/zenodo.8109931).
 
 ## Model Training
 
