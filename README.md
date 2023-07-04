@@ -1,4 +1,4 @@
-# Prognostic significance and computer aided quantitative analysis of tumor-stroma ratio in high-grade serous ovarian cancer using routine H&E digital pathology slides**
+# Prognostic significance and computer aided quantitative analysis of tumor-stroma ratio in high-grade serous ovarian cancer using routine H&E digital pathology slides
 
 Lilian van Wagensveld, Cedric Walker, Kerstin Hahn, Joyce Sanders, Roy FPM Kruitwagen, Maaike A van der Aa, Gabe S Sonke, Sven Rottenberg, Koen K Van de Vijver, Andrew R. Janowczyk, Hugo M Horlings
 
